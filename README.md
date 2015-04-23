@@ -25,6 +25,9 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + Add/remove/change  CSS styles.
   + Listen for key presses or mouse events upon Elements
   + Create events in the page.
+
+<img src="https://s3.amazonaws.com/after-school-assets/tumblr_mo32apssfq1r8lg7to1_500.jpg">
+
 + We can select elements on the page like this:
   ```js
   // using “plain old vanilla” JavaScript
@@ -71,9 +74,6 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + `$(selector).method(parameters);`
   + `$` refers to the jQuery object.
 + `selector` asks jQuery to go out into the DOM (Document Object Model) web page and select an element(s). In jQuery we can use all of the familiar selectors we use in CSS yay!
-
-<img src="https://s3.amazonaws.com/after-school-assets/tumblr_mo32apssfq1r8lg7to1_500.jpg">
-
 + `.method` these are various actions and commands attached to the jQuery object that allow us to do things like fade elements in an out or change the content of the DOM and much much more
 + `parameters` are options we can set for each method.
 + An example of real code:
