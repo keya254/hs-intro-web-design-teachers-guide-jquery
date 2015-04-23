@@ -171,3 +171,9 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 + Pretty cool, huh! 
 + Now go get some practice with the labs on Learn.co!
 
+### Conclusion
+jQuery is magic.
+
+### Hints and Hurdles
++ The `$` is like saying "hey jQuery, wake up. It's time for you to get to work"
+
