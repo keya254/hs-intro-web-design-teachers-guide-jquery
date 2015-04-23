@@ -64,7 +64,8 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 + Inside your `<head></head>`, both using local as fallback solution:
 ```html
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"> <\/script>')</script>````
+  <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"> <\/script>')</script>
+  ```
 + jQuery syntax 
 + Here is an example of the syntax for using a jQuery method
   + `$(selector).method(parameters);`
