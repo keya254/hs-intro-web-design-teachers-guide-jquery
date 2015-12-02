@@ -181,3 +181,5 @@ jQuery is magic.
 ### Hints and Hurdles
 + The `$` is like saying "hey jQuery, wake up. It's time for you to get to work"
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-jquery' data-visibility='hidden'>View this lesson on Learn.co</a>
