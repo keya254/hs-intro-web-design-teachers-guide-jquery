@@ -182,4 +182,4 @@ jQuery is magic.
 + The `$` is like saying "hey jQuery, wake up. It's time for you to get to work"
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-jquery' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-jquery' title='SWABATs'>SWABATs</a> on Learn.co and start learning to code for free.</p>
